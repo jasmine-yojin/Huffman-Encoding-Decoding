@@ -76,7 +76,7 @@ on 1 from the encoded file. When the leaf node is reached, print out the charact
 00011111100011000011100101101110010110111100000000010011011011110011111100001111100
 1000101110101001000010110001111100011000011110011010001101100101001011010000
 
-<h2>Decompression of the First Text File<h2/>
+<h2>Decompression of the First Text File</h2>
  On the eighty fifth day of his unlucky streak,Santiago takes his skiff into the Gulf Stream,sets his lines
 and by noon, has his bait taken by a big fishthat he is sure is a marlin. Unable to haul in the great
 marlin,Santiago is instead pulled by the marlin,and two days and nights pass with Santiago holding onto
@@ -109,7 +109,7 @@ dignity,no one shall deserve to eat the marlin.On the third day, the fish begins
 11010011100001110111001011100011000000101001110110010110111111010000100001101101010
 10110111100
   
-<h2>Decompression of the Second Text File<h2/>
+<h2>Decompression of the Second Text File</h2>
 He makes a new harpoon by strapping his knifeto the end of an oar to help ward off the next line of
 sharks;five sharks are slain and many others are driven away.But the sharks keep coming, and by
 nightfallthe sharks have almost devoured the marlin's entire carcass,leaving a skeleton consisting mostly
