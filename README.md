@@ -42,7 +42,7 @@ whether compression worked correctly. Starting at the root of the binary tree, m
 on 1 from the encoded file. When the leaf node is reached, print out the character.<br>
 <b>Step 9:</b> close all files. 
 
-<h2>Compression of the First Text File</h2>
+<h2>Compression of the test1.txt</h2>
 10001000011111111000110000111000101101001011011001010011110010110110010111000110111
 01010110110100111100110010111101101011100111110001101110101110001100100010100011010
 01111100111001010100011011010001100001100010111010111110010111101010010011111110011
@@ -76,7 +76,7 @@ on 1 from the encoded file. When the leaf node is reached, print out the charact
 00011111100011000011100101101110010110111100000000010011011011110011111100001111100
 1000101110101001000010110001111100011000011110011010001101100101001011010000
 
-<h2>Decompression of the First Text File</h2>
+<h2>Decompression of test1.txt</h2>
  On the eighty fifth day of his unlucky streak,Santiago takes his skiff into the Gulf Stream,sets his lines
 and by noon, has his bait taken by a big fishthat he is sure is a marlin. Unable to haul in the great
 marlin,Santiago is instead pulled by the marlin,and two days and nights pass with Santiago holding onto
@@ -84,7 +84,7 @@ the line.Though wounded by the struggle and in pain,Santiago expresses a compass
 for his adversary,often referring to him as a brother.He also determines that, because of the fish's great
 dignity,no one shall deserve to eat the marlin.On the third day, the fish begins to circle the skiff. 
 
- <h2>Compression of the Second Text File</h2>
+ <h2>Compression of the test2.txt</h2>
 10101101000011110101011010111000010111111101111100000011001011110110110100100011000
 10001001000111101011101111111110111001001011010011000011000101100000111111101100101
 10111110111010000101110011000100101001111001011000011100010001010011101001100111111
@@ -109,7 +109,7 @@ dignity,no one shall deserve to eat the marlin.On the third day, the fish begins
 11010011100001110111001011100011000000101001110110010110111111010000100001101101010
 10110111100
   
-<h2>Decompression of the Second Text File</h2>
+<h2>Decompression of test2.txt</h2>
 He makes a new harpoon by strapping his knifeto the end of an oar to help ward off the next line of
 sharks;five sharks are slain and many others are driven away.But the sharks keep coming, and by
 nightfallthe sharks have almost devoured the marlin's entire carcass,leaving a skeleton consisting mostly
